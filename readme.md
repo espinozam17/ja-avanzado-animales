@@ -23,10 +23,6 @@
 
 # Desafio Animales en investigación
 
-[Ir a Página Animales en investigación](http://127.0.0.1:5500/index.html)
 
-**Este** es *uno* de los _Desafios Grupales_ Usando herramientas ***Javascript***  
-
-__TALENTO DIGITAL__ 
 
 
